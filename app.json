@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "TMS Mobile",
+    "slug": "tms-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "web": {},
+    "plugins": [
+      "expo-document-picker",
+      "expo-image-picker"
+    ]
+  }
+}
